@@ -5,7 +5,6 @@ The Work Management System is software designed to store information about works
 
 Functions:
 Add a work
-
 View-Edit details of a work
 Add a worker
 View-Edit details of a worker
